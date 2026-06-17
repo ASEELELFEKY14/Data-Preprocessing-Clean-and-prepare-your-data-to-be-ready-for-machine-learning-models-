@@ -1,5 +1,3 @@
-# Data-Preprocessing-Clean-and-prepare-your-data-to-be-ready-for-machine-learning-models-
-
 # Data Preprocessing: Clean and Prepare Your Data for Machine Learning Models
 
 ## Overview
